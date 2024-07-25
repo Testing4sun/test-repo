@@ -1,0 +1,148 @@
+2023-08-01 09:15:12 - [ERROR] - User login failed for user1
+2023-08-01 10:30:23 - [INFO] - User2 logged in successfully
+2023-08-01 12:45:34 - [WARN] - Failed to upload file: file1.txt. Try again later.
+2023-08-01 14:59:45 - [FATAL] - Fatal error occurred in auth service
+2023-08-01 16:13:56 - [DEBUG] - Service upload completed
+2023-08-02 08:26:07 - [TRACE] - User login failed for user3
+2023-08-02 09:40:18 - [INFO] - User4 logged in successfully
+2023-08-02 10:54:29 - [WARN] - User4 has exceeded the maximum upload limit
+2023-08-02 12:08:40 - [ERROR] - Failed to authenticate user5
+2023-08-02 14:22:51 - [INFO] - Service upload started
+2023-08-02 15:37:02 - [DEBUG] - User1 logged in successfully
+2023-08-03 08:05:13 - [ERROR] - Failed to upload file: file2.txt
+2023-08-03 09:19:24 - [FATAL] - Fatal error occurred in auth service
+2023-08-03 11:47:46 - [INFO] - User2 logged in successfully
+2023-08-03 13:01:57 - [WARN] - User3 has exceeded the maximum upload limit
+2023-08-03 14:16:08 - [DEBUG] - Failed to authenticate user4
+2023-08-03 15:30:19 - [ERROR] - Service upload not started
+2023-08-03 16:44:30 - [FATAL] - User5 logged in successfully
+2023-08-04 11:25:03 - [DEBUG] - Service upload completed
+2023-08-04 12:39:14 - [ERROR] - User1 logged in successfully
+2023-08-04 13:53:25 - [WARN] - User2 has exceeded the maximum upload limit
+2023-08-04 15:07:36 - [INFO] - Failed to authenticate user3
+2023-08-04 16:21:47 - [FATAL] - Service upload not started. Total crash.
+2023-08-05 08:35:58 - [TRACE] - User4 logged in successfully
+2023-08-05 09:50:09 - [ERROR] - Failed to upload file: file4.txt
+2023-08-05 11:04:20 - [FATAL] - User5 logged in successfully
+2023-08-05 12:18:31 - [WARN] - Potential error could occur in auth service
+2023-08-05 13:32:42 - [INFO] - Service upload completed
+2023-08-05 14:46:53 - [WARN] - User1 logged in successfully
+2023-08-05 16:01:04 - [INFO] - User2 has exceeded the maximum upload limit
+2023-08-06 08:15:15 - [ERROR] - Failed to authenticate user3
+2023-08-06 09:29:26 - [TRACE] - Service upload started
+2023-08-06 11:57:48 - [ERROR] - Failed to upload file: file5.txt
+2023-08-06 13:11:59 - [FATAL] - Fatal error occurred in auth service
+2023-08-06 14:26:10 - [WARN] - Service upload completed
+2023-08-06 15:40:21 - [INFO] - User1 logged in successfully
+2023-08-06 16:54:32 - [TRACE] - User2 has exceeded the maximum upload limit
+2023-08-07 08:08:43 - [ERROR] - Failed to authenticate user3
+2023-08-07 09:22:54 - [FATAL] - Service upload not started. Full crash.
+2023-08-07 11:51:16 - [ERROR] - Failed to upload file: file6.txt
+2023-08-07 13:05:27 - [INFO] - Potential error could occur in auth service
+2023-08-07 14:19:38 - [WARN] - Service upload completed
+2023-08-07 15:33:49 - [TRACE] - User1 logged in successfully
+2023-08-07 16:48:00 - [INFO] - User2 has exceeded the maximum upload limit
+2023-08-08 08:02:11 - [WARN] - Failed to authenticate user3
+2023-08-08 09:16:22 - [ERROR] - Service upload not started
+2023-08-08 10:30:33 - [FATAL] - User4 logged in unsuccessfully
+2023-08-08 12:58:55 - [INFO] - Service upload completed
+2023-08-08 14:13:06 - [DEBUG] - User1 logged in successfully
+2023-08-08 15:27:17 - [ERROR] - User2 has exceeded the maximum upload limit
+2023-08-08 16:41:28 - [FATAL] - Failed to authenticate user3
+2023-08-09 08:55:39 - [TRACE] - Service upload started
+2023-08-09 10:09:50 - [INFO] - User4 logged in successfully
+2023-08-09 11:24:01 - [WARN] - Failed to upload file: file7.txt. Try again later.
+2023-08-09 12:38:12 - [ERROR] - Fatal error occurred in auth service
+2023-08-09 13:52:23 - [DEBUG] - Service upload completed
+2023-08-09 15:06:34 - [TRACE] - User1 logged in successfully
+2023-08-09 16:20:45 - [INFO] - User2 has exceeded the maximum upload limit
+2023-08-10 08:34:56 - [WARN] - Failed to authenticate user3
+2023-08-10 09:49:07 - [ERROR] - Service upload not started
+2023-08-10 11:03:18 - [FATAL] - User4 logged in unsuccessfully
+2023-08-10 12:17:29 - [WARN] - Potential error could occur in auth service
+2023-08-10 13:31:40 - [INFO] - Service upload completed
+2023-08-10 14:45:51 - [DEBUG] - User1 logged in successfully
+2023-08-10 16:00:02 - [ERROR] - User2 has exceeded the maximum upload limit
+2023-08-11 08:14:13 - [FATAL] - Failed to authenticate user3
+2023-08-11 09:28:24 - [TRACE] - Service upload started
+2023-08-11 10:42:35 - [INFO] - User4 logged in successfully
+2023-08-11 11:56:46 - [WARN] - Failed to upload file: file8.txt
+2023-08-11 13:10:57 - [ERROR] - Fatal error occurred in auth service
+2023-08-11 14:25:08 - [DEBUG] - Service upload completed
+2023-08-11 15:39:19 - [TRACE] - User1 logged in successfully
+2023-08-11 16:53:30 - [INFO] - User2 has exceeded the maximum upload limit
+2023-08-12 08:07:41 - [WARN] - Failed to authenticate user3
+2023-08-12 09:21:52 - [ERROR] - Service upload not started
+2023-08-12 11:50:14 - [WARN] - Potential error could occur in auth service
+2023-08-12 13:04:25 - [INFO] - Service upload completed
+2023-08-12 14:18:36 - [DEBUG] - User1 logged in successfully
+2023-08-12 15:32:47 - [ERROR] - User2 has exceeded the maximum upload limit
+2023-08-12 16:46:58 - [FATAL] - Failed to authenticate user3
+2023-08-13 08:01:09 - [TRACE] - Service upload started
+2023-08-13 09:15:20 - [INFO] - User4 logged in successfully
+2023-08-13 10:29:31 - [WARN] - Failed to upload file: file9.txt. Try again later.
+2023-08-13 11:43:42 - [ERROR] - Fatal error occurred in auth service
+2023-08-13 12:57:53 - [DEBUG] - Service upload completed
+2023-08-13 14:12:04 - [TRACE] - User1 logged in successfully
+2023-08-13 15:26:15 - [INFO] - User2 has exceeded the maximum upload limit
+2023-08-14 08:40:26 - [WARN] - Failed to authenticate user3
+2023-08-14 09:54:37 - [ERROR] - Service upload not started
+2023-08-14 12:22:59 - [TRACE] - Potential error could occur in auth service
+2023-08-14 13:37:10 - [INFO] - Service upload completed
+2023-08-14 14:51:21 - [DEBUG] - User1 logged in successfully
+2023-08-14 16:05:32 - [ERROR] - User2 has exceeded the maximum upload limit
+2023-08-15 08:19:43 - [FATAL] - Failed to authenticate user3
+2023-08-15 09:33:54 - [TRACE] - Service upload started
+2023-08-15 10:48:05 - [INFO] - User4 logged in successfully
+2023-08-15 12:02:16 - [WARN] - Failed to upload file: file10.txt. Try again later.
+2023-08-15 13:16:27 - [ERROR] - Fatal error occurred in auth service
+2023-08-15 14:30:38 - [DEBUG] - Service upload completed
+2023-08-15 15:44:49 - [TRACE] - User1 logged in successfully
+2023-08-15 16:59:00 - [INFO] - User2 has exceeded the maximum upload limit
+2023-08-16 08:13:11 - [WARN] - Failed to authenticate user3
+2023-08-16 11:55:44 - [WARN] - Potential error could occur in auth service
+2023-08-16 13:09:55 - [INFO] - Service upload completed
+2023-08-16 14:24:06 - [DEBUG] - User1 logged in successfully
+2023-08-16 15:38:17 - [ERROR] - User2 has exceeded the maximum upload limit
+2023-08-16 16:52:28 - [FATAL] - Failed to authenticate user3
+2023-08-17 08:06:39 - [TRACE] - Service upload started
+2023-08-17 09:20:50 - [INFO] - User4 logged in successfully
+2023-08-17 10:35:01 - [WARN] - Failed to upload file: file11.txt. Try again later.
+2023-08-17 11:49:12 - [ERROR] - Fatal error occurred in auth service
+2023-08-17 13:03:23 - [DEBUG] - Service upload completed
+2023-08-17 14:17:34 - [TRACE] - User1 logged in successfully
+2023-08-17 15:31:45 - [INFO] - User2 has exceeded the maximum upload limit
+2023-08-18 08:45:56 - [WARN] - Failed to authenticate user3
+2023-08-18 10:00:07 - [ERROR] - Service upload not started
+2023-08-18 11:14:18 - [FATAL] - User4 logged in unsuccessfully
+2023-08-18 13:42:40 - [INFO] - Service upload completed
+2023-08-18 14:56:51 - [DEBUG] - User1 logged in successfully
+2023-08-18 16:11:02 - [ERROR] - User2 has exceeded the maximum upload limit
+2023-08-19 08:25:13 - [FATAL] - Failed to authenticate user3
+2023-08-19 09:39:24 - [TRACE] - Service upload started
+2023-08-19 10:53:35 - [INFO] - User4 logged in successfully
+2023-08-19 12:07:46 - [WARN] - Failed to upload file: file12.txt. Try again later.
+2023-08-19 13:21:57 - [ERROR] - Fatal error occurred in auth service
+2023-08-19 14:36:08 - [DEBUG] - Service upload completed
+2023-08-19 15:50:19 - [TRACE] - User1 logged in successfully
+2023-08-19 17:04:30 - [INFO] - User2 has exceeded the maximum upload limit
+2023-08-20 08:18:41 - [WARN] - Failed to authenticate user3
+2023-08-20 09:32:52 - [ERROR] - Service upload not started
+2023-08-20 12:01:14 - [WARN] - Potential error could occur in auth service
+2023-08-20 13:15:25 - [INFO] - Service upload completed
+2023-08-20 14:29:36 - [DEBUG] - User1 logged in successfully
+2023-08-20 15:43:47 - [ERROR] - User2 has exceeded the maximum upload limit
+2023-08-21 08:57:58 - [FATAL] - Failed to authenticate user3
+2023-08-21 10:12:09 - [TRACE] - Service upload started
+2023-08-21 11:26:20 - [INFO] - User4 logged in successfully
+2023-08-21 12:40:31 - [WARN] - Failed to upload file: file13.txt. Try again later.
+2023-08-21 13:54:42 - [ERROR] - Fatal error occurred in auth service
+2023-08-21 15:08:53 - [DEBUG] - Service upload completed
+2023-08-21 16:23:04 - [TRACE] - User1 logged in successfully
+2023-08-21 17:37:15 - [INFO] - User2 has exceeded the maximum upload limit
+2023-08-22 08:51:26 - [WARN] - Failed to authenticate user3
+2023-08-22 10:05:37 - [ERROR] - Service upload not started
+2023-08-22 11:19:48 - [FATAL] - User4 logged in unsuccessfully
+2023-08-22 13:49:10 - [INFO] - Service upload completed
+2023-08-22 15:03:21 - [DEBUG] - User1 logged in successfully
+2023-08-22 16:17:32 - [ERROR] - User2 has exceeded the maximum upload limit
